@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-03T21:38:53 IST" name="Suite" finished-at="2025-11-03T21:39:23 IST" duration-ms="29313">
+    <groups>
+    </groups>
+    <test started-at="2025-11-03T21:38:53 IST" name="Test" finished-at="2025-11-03T21:39:23 IST" duration-ms="29313">
+      <class name="bulidVersionOne.CredentialsCheck">
+        <test-method signature="runBuild()[pri:0, instance:bulidVersionOne.CredentialsCheck@437da279]" started-at="2025-11-03T21:38:53 IST" name="runBuild" finished-at="2025-11-03T21:39:23 IST" duration-ms="29224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runBuild -->
+      </class> <!-- bulidVersionOne.CredentialsCheck -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
